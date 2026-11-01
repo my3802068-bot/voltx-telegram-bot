@@ -1,4 +1,3 @@
-cat > /mnt/user-data/outputs/app.py << 'ENDOFFILE'
 import requests
 import time
 import json
